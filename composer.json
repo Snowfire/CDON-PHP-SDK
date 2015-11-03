@@ -1,0 +1,14 @@
+{
+    "name": "snowfire/cdon-sdk",
+    "description": "An easy way to interact with the CDON API",
+    "require": {
+        "guzzlehttp/guzzle": "3.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Sjöberg",
+            "email": "leo@snowfire.net"
+        }
+    ]
+}
